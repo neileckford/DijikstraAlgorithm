@@ -1,0 +1,14 @@
+.myCanvas{
+    width: 800;
+
+}
+
+#myTable table{
+
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#myTable table th{
+    width: 50px
+}
